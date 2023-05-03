@@ -304,7 +304,7 @@ body {
 
 footer {
   background-color: var(--primary);
-  /* text-align: center; */
+  text-align: center;
   padding: 1rem 0 1.6rem;
   margin-top: 2.5rem;
 }
@@ -325,7 +325,7 @@ footer .social a:hover {
 }
 
 footer .links {
-  /* margin-bottom: 1.3rem; */
+  margin-bottom: 1.3rem;
   display: inline-flex;
   text-align: center;
 }
@@ -449,6 +449,6 @@ footer .credit a:hover {
 /* moblie phone */
 @media (max-width: 450px) {
   html {
-    font-size: 55%;
+    font-size: 60%;
   }
 }
